@@ -1,0 +1,1 @@
+This is a Discord bot that receives incoming messages from a given channel, samples them and the 17 messages precedign them, tries to gauge the mood from them, get a synonym of that mood, and change the channel topic accordingly.
